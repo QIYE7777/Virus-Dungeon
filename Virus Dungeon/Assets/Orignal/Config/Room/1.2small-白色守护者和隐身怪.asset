@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a098159352ed7044a6e0bfd926325c9, type: 3}
+  m_Name: "1.2small-\u767D\u8272\u5B88\u62A4\u8005\u548C\u9690\u8EAB\u602A"
+  m_EditorClassIdentifier: 
+  sceneName: 1.2small
+  normalEnemies:
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  - {fileID: 11400000, guid: e73f273c6ce7bc84db2d801874d6dda5, type: 2}
+  specialEnemies:
+  - {fileID: 11400000, guid: 76c5cb493335bea4483321fc8fe90bfd, type: 2}
+  - {fileID: 11400000, guid: 76c5cb493335bea4483321fc8fe90bfd, type: 2}
+  verySpecialEnemies:
+  - {fileID: 11400000, guid: ac97310c5a382fc41885f8c14c0fad8e, type: 2}
+  - {fileID: 11400000, guid: ac97310c5a382fc41885f8c14c0fad8e, type: 2}
+  spawnWaves:
+  - 1
+  - 0
+  - 0

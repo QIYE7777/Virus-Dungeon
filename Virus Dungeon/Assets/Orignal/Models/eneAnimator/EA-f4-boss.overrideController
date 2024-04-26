@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EA-f4-boss
+  m_Controller: {fileID: 9100000, guid: 3614907c606342a46a9d218989db392e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 438236b1bb4dc03468cb3f2d12fa922c, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 5d9efb65c776b714fb5123711f07de0c, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f76b9b823f2fc9a469d0c2c780514380, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 6f83b9d81f8c7854baeca6ff691bb0c1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: a4dd2805a4cbc5b428b746ff8cf375c4, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 34cbf41484d0da24e9a24545c9d5a332, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 2bfd6fdaf6b23874ca93fca2e578b931, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 53822ae0b4a40a24b97e0cf0388e4248, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f5d4d1a7dadc5a84d910c492d947ca4f, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 555c2f8b240202a4c8f3c3f412587e5a, type: 3}

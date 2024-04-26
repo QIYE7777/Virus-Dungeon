@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dba6dee99f96e149afb9763323c2ed7, type: 3}
+  m_Name: New Roguelike Reward Config
+  m_EditorClassIdentifier: 
+  roguelikeRewards:
+  - {fileID: 11400000, guid: e13ec5e9f4494d94dad662b02d6ba7cf, type: 2}
+  - {fileID: 11400000, guid: 6cb405a87dcfef1498e4613a8c08d65b, type: 2}
+  - {fileID: 11400000, guid: 492596dc220ae7449adf5f39ecae3ae0, type: 2}
+  - {fileID: 11400000, guid: d6f9e0ee740583242b1b3111e00305b1, type: 2}
+  - {fileID: 11400000, guid: 0de257b4296894147ae5502d3200b35f, type: 2}
+  - {fileID: 11400000, guid: 3d708fd22af150c4b9209ef72155b0c8, type: 2}
+  - {fileID: 11400000, guid: 752ac5e68127d85438fa566b1b698bea, type: 2}
+  - {fileID: 11400000, guid: 00bc139a39c433240a3badb4584540c9, type: 2}
+  - {fileID: 11400000, guid: 2a29f881b759864409c0e0a9ead635b0, type: 2}
+  - {fileID: 11400000, guid: 1d549b6f9292aa8419b95947ee3b66c8, type: 2}
+  - {fileID: 11400000, guid: 8f0b80bd9201d214f862339d44ad7b7c, type: 2}
+  - {fileID: 11400000, guid: dc94b30695ddb674d94094127a7b2c38, type: 2}
+  - {fileID: 11400000, guid: 6f64d2e417764fb439f9cb8abc7d4682, type: 2}
+  - {fileID: 11400000, guid: 1d5607db4aedec944acb6d0eaf59d384, type: 2}
+  - {fileID: 11400000, guid: c03a6833c07945341b2b222ccf293fbd, type: 2}
+  - {fileID: 11400000, guid: bace7ca6b507cf14ba2e4631f4e89219, type: 2}
+  - {fileID: 11400000, guid: 61475c51dfcee1e4aba7b97bb3c0be3d, type: 2}
+  - {fileID: 11400000, guid: cf3b9b1fbd009dc40a9eba5a0668d0c6, type: 2}
+  - {fileID: 11400000, guid: 3a078d0806ce8344eaadb1e52e82d77d, type: 2}
+  - {fileID: 11400000, guid: bd105c8027e665a46ac9f25c1954c1fd, type: 2}
+  - {fileID: 11400000, guid: 600cedfa8b5bf26498b553569c2ed578, type: 2}

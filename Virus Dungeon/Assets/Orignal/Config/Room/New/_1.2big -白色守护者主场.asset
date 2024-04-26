@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a098159352ed7044a6e0bfd926325c9, type: 3}
+  m_Name: "_1.2big -\u767D\u8272\u5B88\u62A4\u8005\u4E3B\u573A"
+  m_EditorClassIdentifier: 
+  sceneName: 1.2big_new
+  normalEnemies:
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  - {fileID: 11400000, guid: f3e3bff2bbc0bcb4888099b0fbafe6eb, type: 2}
+  specialEnemies:
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  - {fileID: 11400000, guid: a01d0b0d70031874cb0702659a24cede, type: 2}
+  verySpecialEnemies:
+  - {fileID: 11400000, guid: 0783390ef09868a418201b839fefb864, type: 2}
+  - {fileID: 11400000, guid: 0783390ef09868a418201b839fefb864, type: 2}
+  - {fileID: 11400000, guid: 0783390ef09868a418201b839fefb864, type: 2}
+  - {fileID: 11400000, guid: 0783390ef09868a418201b839fefb864, type: 2}
+  - {fileID: 11400000, guid: 0783390ef09868a418201b839fefb864, type: 2}
+  - {fileID: 11400000, guid: 0783390ef09868a418201b839fefb864, type: 2}
+  spawnWaves:
+  - 2
+  - 1
+  - 1
+  - 0
