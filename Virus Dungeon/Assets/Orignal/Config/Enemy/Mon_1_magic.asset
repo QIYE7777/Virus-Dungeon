@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Mon_1_magic
   m_EditorClassIdentifier: 
   prefab: {fileID: 8394723144096288105, guid: e1e29c1c5a2896141971271acd2077ae, type: 3}
-  hp: 35
+  hp: 70
   attack: 2
   speed: 4

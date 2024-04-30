@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Mon_5_poison
   m_EditorClassIdentifier: 
   prefab: {fileID: 8394723144096288105, guid: b4300f515a1687043b81c0360d604646, type: 3}
-  hp: 100
+  hp: 60
   attack: 10
   speed: 4.2
